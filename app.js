@@ -1,2 +1,1 @@
-// New feature added
-// Another new feature added
+// New feature added - Color changed
